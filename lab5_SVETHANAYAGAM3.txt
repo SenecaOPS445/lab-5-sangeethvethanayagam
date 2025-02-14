@@ -1,0 +1,97 @@
+test_0 (__main__.lab5a.test_0)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for file creation: ./lab5a.py ... ok
+test_a (__main__.lab5a.test_a)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for errors running: ./lab5a.py ... ok
+test_a1 (__main__.lab5a.test_a1)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for correct shebang line: ./lab5a.py ... ok
+test_a_function_read_file_string (__main__.lab5a.test_a_function_read_file_string)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - function read_file_string fails without 1 argument ... ok
+test_b_function_read_file_list (__main__.lab5a.test_b_function_read_file_list)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - function read_file_list fails without 1 argument ... ok
+test_c_file_data_txt_exists (__main__.lab5a.test_c_file_data_txt_exists)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for file creation: ./data.txt ... ok
+test_d_file_data_txt_has_correct_text (__main__.lab5a.test_d_file_data_txt_has_correct_text)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for correct contents: ./data.txt ... ok
+test_e_function_read_file_string_correct_output (__main__.lab5a.test_e_function_read_file_string_correct_output)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for output: ./lab5a.py ... ok
+test_f_function_read_file_list_correct_output (__main__.lab5a.test_f_function_read_file_list_correct_output)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for output: ./lab5a.py ... ok
+test_g_function_read_file_list_correct_output (__main__.lab5a.test_g_function_read_file_list_correct_output)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for output: ./lab5a.py ... ok
+test_h_function_read_file_list_correct_output (__main__.lab5a.test_h_function_read_file_list_correct_output)
+[Lab 5] - [Investigation 1] - [Part 1] - Files - Test for output: ./lab5a.py ... ok
+test_0 (__main__.lab5b.test_0)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for file creation: ./lab5b.py ... ok
+test_a (__main__.lab5b.test_a)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for errors running: ./lab5b.py ... ok
+test_a1 (__main__.lab5b.test_a1)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for correct shebang line: ./lab5b.py ... ok
+test_a_function_append_file_string (__main__.lab5b.test_a_function_append_file_string)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - function append_file_string fails without 2 argument ... ok
+test_a_function_read_file_string (__main__.lab5b.test_a_function_read_file_string)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - function read_file_string fails without 1 argument ... ok
+test_b_function_read_file_list (__main__.lab5b.test_b_function_read_file_list)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - function read_file_list fails without 1 argument ... ok
+test_c_function_write_file_list (__main__.lab5b.test_c_function_write_file_list)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - function write_file_list fails without 2 argument ... ok
+test_d_function_copy_file_add_line_numbers (__main__.lab5b.test_d_function_copy_file_add_line_numbers)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - function copy_file_add_line_numbers fails without 2 argument ... ok
+test_e_file_data_txt_exists (__main__.lab5b.test_e_file_data_txt_exists)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for file creation: ./data.txt ... ok
+test_f_file_data_txt_has_correct_text (__main__.lab5b.test_f_file_data_txt_has_correct_text)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for correct contents: ./data.txt ... ok
+test_g_function_read_file_string_correct_output (__main__.lab5b.test_g_function_read_file_string_correct_output)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py ... ok
+test_h_function_read_file_list_correct_output (__main__.lab5b.test_h_function_read_file_list_correct_output)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py ... ok
+test_i_function_append_file_string_correct_output_1 (__main__.lab5b.test_i_function_append_file_string_correct_output_1)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py ... ok
+test_i_function_append_file_string_correct_output_2 (__main__.lab5b.test_i_function_append_file_string_correct_output_2)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py ... ok
+test_j_function_write_file_list_correct_output_1 (__main__.lab5b.test_j_function_write_file_list_correct_output_1)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py ... ok
+test_j_function_write_file_list_correct_output_2 (__main__.lab5b.test_j_function_write_file_list_correct_output_2)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py ... ok
+test_k_function_copy_file_add_line_numbers_correct_output_1 (__main__.lab5b.test_k_function_copy_file_add_line_numbers_correct_output_1)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py ... ok
+test_k_function_copy_file_add_line_numbers_correct_output_2 (__main__.lab5b.test_k_function_copy_file_add_line_numbers_correct_output_2)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py ... ok
+test_k_function_copy_file_add_line_numbers_correct_output_3 (__main__.lab5b.test_k_function_copy_file_add_line_numbers_correct_output_3)
+[Lab 5] - [Investigation 1] - [Part 2] - Files - Test for output: ./lab5b.py ... ok
+test_0 (__main__.lab5c.test_0)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for file creation: ./lab5c.py ... ok
+test_a (__main__.lab5c.test_a)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for errors running: ./lab5c.py ... ok
+test_a1 (__main__.lab5c.test_a1)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for correct shebang line: ./lab5c.py ... ok
+test_a_function_add (__main__.lab5c.test_a_function_add)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - function add fails without 2 argument ... ok
+test_b_function_read_file (__main__.lab5c.test_b_function_read_file)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - function read_file fails without 1 argument ... ok
+test_c_function_add_correct_output_1 (__main__.lab5c.test_c_function_add_correct_output_1)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for output: ./lab5c.py ... ok
+test_c_function_add_correct_output_2 (__main__.lab5c.test_c_function_add_correct_output_2)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for output: ./lab5c.py ... ok
+test_c_function_add_correct_output_3 (__main__.lab5c.test_c_function_add_correct_output_3)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for output: ./lab5c.py ... ok
+test_c_function_add_correct_output_4 (__main__.lab5c.test_c_function_add_correct_output_4)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for output: ./lab5c.py ... ok
+test_d_function_read_file_correct_output_1 (__main__.lab5c.test_d_function_read_file_correct_output_1)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for output: ./lab5c.py ... ok
+test_d_function_read_file_correct_output_2 (__main__.lab5c.test_d_function_read_file_correct_output_2)
+[Lab 5] - [Investigation 2] - [Part 1] - Files - Test for output: ./lab5c.py ... ok
+
+----------------------------------------------------------------------
+Ran 41 tests in 0.039s
+
+OK
+OPS445 Lab Report - System Information for running ./CheckLab5.py
+=================================================================
+    User login name: sangeeth
+    Linux system name: ubuntu
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/sangeeth/ops445/lab5
+    Start at: Fri Feb 14 14:07:00 2025
+=================================================================
