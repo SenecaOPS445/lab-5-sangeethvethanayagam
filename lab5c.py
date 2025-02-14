@@ -11,6 +11,13 @@ def add(number1, number2):
 
 def read_file(filename):
     # Read a file, return a list of all lines, if error return string 'error: could not read file'
+     try:
+        file = open(filename, 'r')
+        content = file.readlines()
+        file.close()
+        return content
+     except FileNotFoundError:
+        return 'error: could not read file'
 
 if __name__ == '__main__':
     print(add(10,5))                        # works
