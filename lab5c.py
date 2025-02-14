@@ -3,6 +3,11 @@
 
 def add(number1, number2):
     # Add two numbers together, return the result, if error return string 'error: could not add numbers'
+    try:
+        return int(number1) + int(number2)
+    except ValueError:
+        return 'error: could not add numbers'
+        
 
 def read_file(filename):
     # Read a file, return a list of all lines, if error return string 'error: could not read file'
