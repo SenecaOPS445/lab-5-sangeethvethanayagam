@@ -3,7 +3,7 @@
 
 def read_file_string(file_name):
     # Takes file_name as string for a file name, returns its entire contents as a string
-    f = open('data.txt', 'r')
+    f = open(file_name, 'r')
     file_content =  f.read()
     f.close()
     return file_content
@@ -13,7 +13,7 @@ def read_file_string(file_name):
 def read_file_list(file_name):
     # Takes a file_name as string for a file name, 
     # return its entire contents as a list of lines without new-line characters
-    f = open('data.txt', 'r')
+    f = open(file_name, 'r')
     list = f.readlines()
     list = [line.strip() for line in list]
     f.close()
