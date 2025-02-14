@@ -34,7 +34,9 @@ def write_file_list(file_name, list_of_lines):
 
 def copy_file_add_line_numbers(file_name_read, file_name_write):
     #Takes two strings, reads data from first file, writes data to new file, adds line number to new file
-    
+    read = open(file_name_read, 'r')
+    lines = read.readline()
+    read.close()
 
 
 
@@ -49,5 +51,5 @@ if __name__ == '__main__':
     print(read_file_string(file1))
     write_file_list(file2, list1)
     print(read_file_string(file2))
-    #copy_file_add_line_numbers(file2, file3)
+    copy_file_add_line_numbers(file2, file3)
     print(read_file_string(file3))
